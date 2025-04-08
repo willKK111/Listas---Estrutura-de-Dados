@@ -183,7 +183,7 @@ test("Questão 5 - Implemente um deque", () => {
 });
 
 
-test("Questão 6 - ", ()=>{
+test("Questão 6 - fazer uma função que reverte a fila fazendo ela recursiva", ()=>{
 
   let filaPrincipal = new Fila();
   function reverseQueue() {

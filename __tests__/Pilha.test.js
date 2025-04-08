@@ -123,6 +123,7 @@ test("Questão 3 - Fazer troca da base da pilha para o topo da pilha usando uma 
 });
 
 test("QUESTÃO 4. Implemente um conversor de números decimais para binários utilizando uma pilha", () => {
+  
   function conversor(decimal) {
     let binario = decimal.toString(2);
     return binario;
